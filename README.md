@@ -2,6 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+ A cooking with react application where you can add ,edit and delete recipes . T
+Extensive use of  props, class components and function components ,Hooks such as useContext ,useState, useEffect , localStorage and more.
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
